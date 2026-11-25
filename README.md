@@ -62,3 +62,21 @@ An academic task-reward ecosystem where students complete institutional challeng
         ├── StudentTasks.tsx
         ├── ToastNotification.tsx
         └── TopHeader.tsx
+
+
+## How to Download & Run on Localhost
+
+### 1. Prerequisites
+Make sure you have **Node.js** (v18 or higher) and **npm** installed on your computer.
+- Download Node.js from [nodejs.org](https://nodejs.org/) (npm is included automatically).
+- Verify installation by running:
+  ```bash
+  node -v
+  npm -v
+
+Other Available Scripts
+Command	Description
+npm run dev	Starts the Vite dev server on http://localhost:3000
+npm run build	Builds the production-ready bundle into dist/
+npm run preview	Previews the production build locally
+npm run lint	Runs TypeScript type-checking (tsc --noEmit)
