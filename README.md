@@ -28,7 +28,7 @@ An academic task-reward ecosystem built with **React, Express, and MongoDB**, wh
 
 ---
 
-## How to Download & Run on Localhost
+## How to Download & Run
 
 ### 1. Prerequisites
 Make sure you have the following installed on your machine:
