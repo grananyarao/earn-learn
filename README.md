@@ -72,12 +72,3 @@ Once the server starts, open your browser and go to:
 http://localhost:3000
 ```
 
-## Other Available Scripts
-
-| Command | Description |
-| :--- | :--- |
-| `npm run dev` | Starts the Vite dev server on `http://localhost:3000` |
-| `npm run build` | Builds the production-ready bundle into `dist/` |
-| `npm run preview` | Previews the production build locally |
-| `npm run lint` | Runs TypeScript type-checking (`tsc --noEmit`) |
-
