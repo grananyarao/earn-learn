@@ -31,9 +31,46 @@ An academic task-reward ecosystem where students complete institutional challeng
 Make sure you have **Node.js** (v18 or higher) and **npm** installed on your computer.
 - Download Node.js from [nodejs.org](https://nodejs.org/) (npm is included automatically).
 - Verify installation by running:
-  ```bash
-  node -v
-  npm -v
+
+```bash
+node -v
+npm -v
+```
+
+### 2. Download the Project
+
+**Option A — Using Git:**
+
+```bash
+git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>
+```
+
+**Option B — Download ZIP from GitHub:**
+1. Click the green **`<> Code`** button at the top of this GitHub repository.
+2. Select **Download ZIP**.
+3. Extract the ZIP folder and open a terminal/command prompt inside the extracted project folder.
+
+### 3. Install Dependencies
+Run the following command inside the project folder to install all required packages:
+
+```bash
+npm install
+```
+
+### 4. Start the Local Development Server
+Run:
+
+```bash
+npm run dev
+```
+
+### 5. Open in Your Browser
+Once the server starts, open your browser and go to:
+
+```text
+http://localhost:3000
+```
 
 ## Other Available Scripts
 Command	Description
